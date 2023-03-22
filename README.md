@@ -34,5 +34,14 @@ Log in / Sign in and Register / Sign up REST API's
 JWT ( Json Web Tokens) - Securing REST API's with JWT
 
 
-Versioning through URI Path
+The ways to versioning Blog App REST APIs
+
+Run your SpringBoot Application 
+Open postman/any browser 
+
+some Examples: 
+
+http://localhost:9292 /api/auth/register
+http://localhost:9292/api/categories/
+http://localhost:9292/api/posts/6
 
