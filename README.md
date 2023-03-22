@@ -1,6 +1,6 @@
 # BlogApplicationBackend
 
-Tools and Technologies
+# Tools and Technologies
 
 Technologies:
 Java 8+
@@ -11,16 +11,16 @@ Spring Security
 JWT
 Tomcat
 
-IDE:
+# IDE:
 Spring Tool Suit 3
 
-Database:
+# Database:
 MySQL database
 
-To do
+# To do
 MySql --> create database blog;
 
-What is inside
+# What is inside
 
 REST API's  for Blog Application
 Building CRUD REST API's for Post, User, Category, Comment Resource
@@ -34,7 +34,7 @@ Log in / Sign in and Register / Sign up REST API's
 JWT ( Json Web Tokens) - Securing REST API's with JWT
 
 
-The ways to versioning Blog App REST APIs
+# The ways to versioning Blog App REST APIs
 
 Run your SpringBoot Application 
 Open postman/any browser 
@@ -42,6 +42,8 @@ Open postman/any browser
 some Examples: 
 
 http://localhost:9292 /api/auth/register
+
 http://localhost:9292/api/categories/
+
 http://localhost:9292/api/posts/6
 
